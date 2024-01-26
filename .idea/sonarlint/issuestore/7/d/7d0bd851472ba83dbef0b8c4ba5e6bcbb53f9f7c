@@ -1,0 +1,6 @@
+
+`
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(ñ±ã8ñ²Š Ô1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½åÒº8ö²Š Ô1
+G	java:S106"+Replace this use of System.out by a logger.(€ÂÑĞ8’ï‰ Ô1

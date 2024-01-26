@@ -1,0 +1,6 @@
+
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(æíœ‚şÿÿÿÿ8ó‚ Ô1
+\
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(ŸëÖùÿÿÿÿ8ü‚ Ô1
+G	java:S106"+Replace this use of System.out by a logger.(¦ËÚÎ8ü‚ Ô1
