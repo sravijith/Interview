@@ -9,14 +9,14 @@ d
 java:S1192J"GDefine a constant instead of duplicating this literal "Female" 6 times.(µ¯ÂÜ8°ê×³Ô1
 F
 java:S5411ñ"(Use a primitive boolean expression here.(³›§ë8³ê×³Ô1
-–
-java:S3655{"tCall "highestPaidEmployeeWrapper.isPresent()" or "!highestPaidEmployeeWrapper.isEmpty()" before accessing the value.(­ô§Ôÿÿÿÿÿ8Çê×³Ô1
-
-java:S3655„"jCall "oldestEmployeeWrapper.isPresent()" or "!oldestEmployeeWrapper.isEmpty()" before accessing the value.(—¥Áƒùÿÿÿÿ8Çê×³Ô1
-Â
-java:S3655©"Call "youngestMaleEmployeeInProductDevelopmentWrapper.isPresent()" or "!youngestMaleEmployeeInProductDevelopmentWrapper.isEmpty()" before accessing the value.(²ÉˆÍøÿÿÿÿ8Çê×³Ô1
 
 java:S3655´"rCall "seniorMostEmployeeWrapper.isPresent()" or "!seniorMostEmployeeWrapper.isEmpty()" before accessing the value.(–ÄŞ8Çê×³Ô1
+
+java:S3655„"jCall "oldestEmployeeWrapper.isPresent()" or "!oldestEmployeeWrapper.isEmpty()" before accessing the value.(—¥Áƒùÿÿÿÿ8Çê×³Ô1
+–
+java:S3655{"tCall "highestPaidEmployeeWrapper.isPresent()" or "!highestPaidEmployeeWrapper.isEmpty()" before accessing the value.(­ô§Ôÿÿÿÿÿ8Çê×³Ô1
+Â
+java:S3655©"Call "youngestMaleEmployeeInProductDevelopmentWrapper.isPresent()" or "!youngestMaleEmployeeInProductDevelopmentWrapper.isEmpty()" before accessing the value.(²ÉˆÍøÿÿÿÿ8Çê×³Ô1
 L	java:S106"+Replace this use of System.out by a logger.(œ†…¢øÿÿÿÿ8Ìê×³Ô1
 F	java:S106"+Replace this use of System.out by a logger.(ÉÀ¸48Ìê×³Ô1
 G	java:S106"+Replace this use of System.out by a logger.(õ¤Ö8Íê×³Ô1
