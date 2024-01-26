@@ -1,8 +1,0 @@
-
-L	java:S106
-"+Replace this use of System.out by a logger.(ç™‰¿ûÿÿÿÿ8Üï›Ô1
-G	java:S106"+Replace this use of System.out by a logger.(ŠêÊ8¸“«œÔ1
-Y
-java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8¤Ù¯œÔ1
-Q
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¹¶«œÔ1
