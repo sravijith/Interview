@@ -1,7 +1,8 @@
-
-If you are checking multidimensional arrays for equality, then use deepEquals() method of Arrays class instead of equals() method.
+1. If you are checking multidimensional arrays for equality, then use deepEquals() method of Arrays class instead of
+equals() method.
 Because, deepEquals() performs deep comparison of both the arrays.
 
+```
 public class EqualityOfTwoArrays
 {
     public static void main(String[] args)
@@ -19,3 +20,4 @@ public class EqualityOfTwoArrays
         //That's why use deepEquals() method to compare multidimensional arrays
     }
 }
+```
