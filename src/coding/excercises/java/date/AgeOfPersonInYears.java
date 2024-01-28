@@ -1,4 +1,4 @@
-package coding.excercises.date;
+package coding.excercises.java.date;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
