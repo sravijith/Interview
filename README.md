@@ -15,6 +15,7 @@
 10. [medium](https://medium.com/@vivekkadiyanits/java-lead-7-to-10-years-interview-mastery-covered-question-has-asked-in-more-than-9-service-base-d55ffbb0009c)
 11. [mindmajix](https://mindmajix.com/java-interview-questions)
 12. [rathod-ajay](https://rathod-ajay.medium.com/your-guide-to-clear-java-developer-interview-in-2024-36a926ec6719)
+13. [JavaTechie](https://www.youtube.com/watch?v=FFfJeb8Ec6Y&list=LL&index=175&ab_channel=JavaTechie)
 
 </details>
 
