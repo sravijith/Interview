@@ -48,7 +48,8 @@
 <details>
 <summary>Typescript</summary>
 
-start here...
+1. [MonsterlessonsAcademy](https://www.youtube.com/watch?v=4pqeoHLf9IU&t=13s&ab_channel=MonsterlessonsAcademy)
+2. [edureka](https://www.youtube.com/watch?v=5ydtHoc4hkw&ab_channel=edureka%21)
 
 </details>
 
