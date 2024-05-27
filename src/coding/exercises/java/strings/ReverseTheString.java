@@ -1,4 +1,4 @@
-package coding.exercises.strings;
+package coding.exercises.java.strings;
 
 /*
 * @see <a href="https://javaconceptoftheday.com/java-interview-programs-with-solutions/">javaconceptoftheday</a>

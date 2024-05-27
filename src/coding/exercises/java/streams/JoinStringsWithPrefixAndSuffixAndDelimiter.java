@@ -1,4 +1,4 @@
-package coding.exercises.streams;
+package coding.exercises.java.streams;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package coding.exercises.strings;
+package coding.exercises.java.strings;
 
 import java.util.Arrays;
 import java.util.LinkedHashMap;

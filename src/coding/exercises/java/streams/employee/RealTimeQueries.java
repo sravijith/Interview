@@ -1,4 +1,4 @@
-package coding.exercises.streams.employee;
+package coding.exercises.java.streams.employee;
 
 import java.util.*;
 import java.util.logging.Logger;

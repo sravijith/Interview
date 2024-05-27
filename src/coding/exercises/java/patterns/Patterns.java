@@ -1,4 +1,4 @@
-package coding.exercises.patterns;
+package coding.exercises.java.patterns;
 
 import java.util.Scanner;
 

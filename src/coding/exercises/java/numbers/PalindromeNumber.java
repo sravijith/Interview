@@ -1,4 +1,4 @@
-package coding.exercises.numbers;
+package coding.exercises.java.numbers;
 
 public class PalindromeNumber {
 
