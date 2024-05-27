@@ -3,7 +3,6 @@
 <details open>
 <summary>Java</summary>
     1. [Javaconceptoftheday](https://javaconceptoftheday.com/java-interview-programs-with-solutions/)
-    2.
 <details>
 
 <details open>
@@ -19,7 +18,7 @@
     1. [freeCodeCamp Cassandra Basics](https://www.youtube.com/watch?v=J-cSy5MeMOA&ab_channel=freeCodeCamp.org)
 </details>
    
- <deatials open>  
+ <details open>  
  <summary>Javascript</summary>
    1. [JS Interview Questions and Answers](https://www.youtube.com/watch?v=AUTO7ALJk2U&list=PL3aZbxdSiCbPq0iHyLPgD4N5q2rHrP8wR&index=1&ab_channel=InterviewHappy)
     2. [React JS Interview Question and Answers](https://www.youtube.com/watch?v=IMEzmmP3WAs&ab_channel=InterviewHappy)
