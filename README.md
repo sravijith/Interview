@@ -16,6 +16,7 @@
 11. [mindmajix](https://mindmajix.com/java-interview-questions)
 12. [rathod-ajay](https://rathod-ajay.medium.com/your-guide-to-clear-java-developer-interview-in-2024-36a926ec6719)
 13. [JavaTechie](https://www.youtube.com/watch?v=FFfJeb8Ec6Y&list=LL&index=175&ab_channel=JavaTechie)
+14. [JVMInternals](https://blog.jamesdbloom.com/JVMInternals.html)
 
 </details>
 
@@ -55,6 +56,19 @@
 
 <details>
 <summary>GO</summary>
+
+start here...
+
+</details>
+
+<details open>
+<summary>Docker</summary>
+
+start here...
+</details>
+
+<details open>
+<summary>Kubernetes</summary>
 
 start here...
 
