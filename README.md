@@ -61,15 +61,23 @@ start here...
 
 </details>
 
-<details open>
+<details>
 <summary>Docker</summary>
 
 start here...
+
 </details>
 
-<details open>
+<details>
 <summary>Kubernetes</summary>
 
 start here...
+
+</details>
+
+<details>
+<summary>Python</summary>
+
+1. [w3resource excercises](https://www.w3resource.com/python-exercises/)
 
 </details>
